@@ -750,7 +750,7 @@ h3 {
 }
 
 .black-background {
-    background-color: rgba(111, 99, 65, 0.7);
+    background-color: rgba(111, 99, 65, 0.9);
     padding: 40px 40px 40px 40px;
 }
 
@@ -779,7 +779,7 @@ h3 {
 
 .btn-atomic-tangerine:hover {
     background: #FFB67E;
-    color: #000000;
+    color: #313446;
 }
 
 
